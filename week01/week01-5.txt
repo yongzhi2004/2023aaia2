@@ -1,0 +1,10 @@
+a,b=list(map(int,input().split()))
+print(a+b,end='')
+
+#include <stdio.h>
+int main()
+{
+int a,b;
+scanf("%d %d,&a &b);
+printf("%d", a+b);
+}
